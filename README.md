@@ -20,15 +20,15 @@ The contract is designed to be deployed with an initial supply, customizable tok
 
 A step by step series of examples that tell you how to get a development environment running.
 
-* Clone the repository:git clone https://github.com/your_username/your_project.git
-* Navigate into the project directory and install dependencies:cd your_project
+* Clone the repository - git clone https://github.com/your_username/your_project.git
+* Navigate into the project directory and install dependencies - cd your_project
 npm install
 
 Compiling the Smart Contract
-* Compile your Solidity contracts using Truffle:truffle compile
+* Compile your Solidity contracts using Truffle - truffle compile
 
 Running Tests
-*Explain how to run the automated tests for this system:truffle test
+*Explain how to run the automated tests for this system - truffle test
 
 ### Executing program
 
