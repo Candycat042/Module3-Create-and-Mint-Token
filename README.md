@@ -1,10 +1,14 @@
-# Project Title
+# Module 3: Types of Functions - ETH + AVAX
 
-Simple overview of use/purpose.
+The project involves creating a custom ERC-20 token smart contract called RemixToken on the Ethereum blockchain. This token contract extends functionalities from OpenZeppelin libraries (ERC20, ERC20Burnable, Ownable) to provide standard token operations such as minting, burning, and ownership management. Key features include:
+
+* Minting Tokens: Only the contract owner can mint new tokens.
+* Burning Tokens: Any user can burn their own tokens, subject to approval limits.
+* Transferring Tokens: Users can transfer tokens to other addresses.
 
 ## Description
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+The contract is designed to be deployed with an initial supply, customizable token name and symbol, and ownership structure. This README serves as a guide for developers to set up, deploy, and interact with the RemixToken contract on Ethereum.
 
 ## Getting Started
 * Node.js and npm (Node Package Manager)
@@ -44,7 +48,7 @@ If you encounter any issues or have questions about the project, feel free to op
 
 Contributors names and contact info
 
-Charles Dean Bandivas  
+Charles Dean A. Bandivas  
 61902060@ntc.edu.ph(https://mail.google.com/mail)
 
 ## License
